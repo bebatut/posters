@@ -7,9 +7,8 @@ This repository keeps my scientific posters
 Year | Event | Location | Title
 --- | --- | --- | ---
 [2023](23/) | [ELIXIR All Hands Meeting](https://elixir-europe.org/events/elixir-all-hands-2023) | Dublin, Ireland | [Open Life Science: A mentoring & training program for Open Science ambassadors](23/06_elixir_ahm_ols)
-[2023](23/) | [ELIXIR All Hands Meeting](https://elixir-europe.org/events/elixir-all-hands-2023) | Dublin, Ireland | [Accessible and scalable pipelines for fast and easy (foodborne) pathogens detection and tracking](23/06_elixir_ahm_ols)
-[2023](23/) | [ELIXIR All Hands Meeting](https://elixir-europe.org/events/elixir-all-hands-2023) | Dublin, Ireland | [Open Life Science: A mentoring & training program for Open Science ambassadors](23/06_elixir_ahm_ols)
-[2023](23/) | [ELIXIR All Hands Meeting](https://elixir-europe.org/events/elixir-all-hands-2023) | Dublin, Ireland | [Open Life Science: A mentoring & training program for Open Science ambassadors](23/06_elixir_ahm_ols)
+[2023](23/) | [ELIXIR All Hands Meeting](https://elixir-europe.org/events/elixir-all-hands-2023) | Dublin, Ireland | [Accessible and scalable pipelines for fast and easy (foodborne) pathogens detection and tracking](23/06_elixir_ahm_pathogen_detection)
+[2023](23/) | [ELIXIR All Hands Meeting](https://elixir-europe.org/events/elixir-all-hands-2023) | Dublin, Ireland | [Galaxy Training: A powerful framework for teaching!](23/06_elixir_ahm_gtn)
 [2019](19/) | [GCB](http://www.gcb2019.de/) | Heidelberg, Germany | [Galaxy for long read ONT data analysis and public education](19/09_gcb)
 [2019](19/) | [GCC](https://galaxyproject.org/events/gcc2019/) | Freiburg, Germany | [Galaxy and Training: 2019 updates from the Galaxy Training Network](19/07_gcc)
 [2018](18/) | [Carpentry Con](http://www.carpentrycon.org/) | Dublin, Ireland | [Community-Driven Training for Biological Data Analysis with the Galaxy Training Network](18/06_carpentrycon_gtn)
