@@ -13,9 +13,9 @@ Thus, expanding this Community to a more inclusive ELIXIR Microbiome Community w
 
 This poster will describe the various activities that the ELIXIR Marine Metagenomics Community has undertaken towards the transition to a broader Microbiome community. We will outline the proposed roadmap, highlighting how we see this new community fitting with the other ELIXIR communities and platforms.
 
-## Useful links
+## Links
 
-- [White paper](https://drive.google.com/file/d/1HvqUMJo7H1cbd2uwh0qZP5in45uqFtLo/view?usp=sharing)
+- [White paper](https://drive.google.com/file/d/1HvqUMJo7H1cbd2uwh0qZP5in45uqFtLo/view?usp=sharing) - Open for ELIXIR wide review until August 11th
 
 - Community Meeting in Barcelona
     - Registration
