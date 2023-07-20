@@ -6,6 +6,9 @@ This repository keeps my scientific posters
 
 Year | Event | Location | Title
 --- | --- | --- | ---
+[2023](23/) | [ISMB/ECCB](https://www.iscb.org/ismbeccb2023) | Lyon, France | [Open Life Science: A mentoring & training program for Open Science ambassadors](23/06_elixir_ahm_ols)
+[2023](23/) | [ISMB/ECCB](https://www.iscb.org/ismbeccb2023) | Lyon, France | [Galaxy Training: A powerful framework for teaching!](23/06_elixir_ahm_gtn)
+[2023](23/) | [ISMB/ECCB](https://www.iscb.org/ismbeccb2023) | Lyon, France | [Accessible and scalable pipelines for fast and easy (foodborne) pathogens detection and tracking](23/06_elixir_ahm_pathogen_detection)
 [2023](23/) | [ELIXIR All Hands Meeting](https://elixir-europe.org/events/elixir-all-hands-2023) | Dublin, Ireland | [Open Life Science: A mentoring & training program for Open Science ambassadors](23/06_elixir_ahm_ols)
 [2023](23/) | [ELIXIR All Hands Meeting](https://elixir-europe.org/events/elixir-all-hands-2023) | Dublin, Ireland | [Accessible and scalable pipelines for fast and easy (foodborne) pathogens detection and tracking](23/06_elixir_ahm_pathogen_detection)
 [2023](23/) | [ELIXIR All Hands Meeting](https://elixir-europe.org/events/elixir-all-hands-2023) | Dublin, Ireland | [Galaxy Training: A powerful framework for teaching!](23/06_elixir_ahm_gtn)
