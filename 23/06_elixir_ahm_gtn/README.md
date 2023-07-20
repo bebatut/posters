@@ -3,7 +3,7 @@ Galaxy Training: A powerful framework for teaching!
 
 ### Helena Rasche, Saskia Hiltemann, The Galaxy Training Network, Bérénice Batut
 
-*Poster presented at [ELIXIR All Hands Meeting 2023](https://elixir-europe.org/events/elixir-all-hands-2023)*
+*Poster presented at [ELIXIR All Hands Meeting 2023](https://elixir-europe.org/events/elixir-all-hands-2023) and [ISMB 2023](https://www.iscb.org/ismbeccb2023)*
 
 ## Abstract
 

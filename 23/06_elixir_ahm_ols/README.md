@@ -3,7 +3,7 @@ Open Life Science: A mentoring & training program for Open Science ambassadors
 
 ### Mallory Freeberg, Fotis Psomopoulos, Diana Pilvar, Bérénice Batut
 
-*Poster presented at [ELIXIR All Hands Meeting 2023](https://elixir-europe.org/events/elixir-all-hands-2023)*
+*Poster presented at [ELIXIR All Hands Meeting 2023](https://elixir-europe.org/events/elixir-all-hands-2023) and [ISMB 2023](https://www.iscb.org/ismbeccb2023)*
 
 ## Abstract
 
