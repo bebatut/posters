@@ -19,33 +19,13 @@ The platform's focus on accessibility is evident from the uptake by communities 
 
 ## Implementation of SPLASH recommendations in the GTN
 
-### Plan
+In the linked spreadsheet below, we looked at the different SPLASH Recommendation and compared ELIXIR Services/Tools and GTN Implementations. Feel free to add comments in the spreadsheet 
 
-SPLASH Recommendation | ELIXIR Services/Tools | GTN Implementations
---- | --- | ---
-
-### Design
-
-SPLASH Recommendation | ELIXIR Services/Tools | GTN Implementations
---- | --- | ---
-
-### Develop
-
-SPLASH Recommendation | ELIXIR Services/Tools | GTN Implementations
---- | --- | ---
-
-
-### Deliver
-
-SPLASH Recommendation | ELIXIR Services/Tools | GTN Implementations
---- | --- | ---
-
-
-### Evaluate
-
-SPLASH Recommendation | ELIXIR Services/Tools | GTN Implementations
---- | --- | ---
-
+- [Plan](https://docs.google.com/spreadsheets/d/1WjmjitJfwj3VczKSrVlvPjUeI-FirrpXsjzuC0dKnaU/edit?gid=0#gid=0)
+- [Design](https://docs.google.com/spreadsheets/d/1WjmjitJfwj3VczKSrVlvPjUeI-FirrpXsjzuC0dKnaU/edit?gid=1293184310#gid=1293184310)
+- [Develop](https://docs.google.com/spreadsheets/d/1WjmjitJfwj3VczKSrVlvPjUeI-FirrpXsjzuC0dKnaU/edit?gid=12338763#gid=12338763)
+- [Deliver](https://docs.google.com/spreadsheets/d/1WjmjitJfwj3VczKSrVlvPjUeI-FirrpXsjzuC0dKnaU/edit?gid=36727457#gid=36727457)
+- [Evaluate](https://docs.google.com/spreadsheets/d/1WjmjitJfwj3VczKSrVlvPjUeI-FirrpXsjzuC0dKnaU/edit?gid=494701970#gid=494701970)
 
 ## Useful links
 
