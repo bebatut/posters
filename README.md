@@ -7,6 +7,7 @@ This repository keeps my scientific posters
 Year | Event | Location | Title
 --- | --- | --- | ---
 [2025](25/) | [JOBIM](https://jobim2025.labri.fr/) | Bordeaux, France | [Exploring the Richness of the French Galaxy Ecosystem](25/07_jobim_galaxy_fr)
+[2025](25/) | [GBCC](https://gbcc2025.bioconductor.org/) | NY, USA | [Exploring the Richness of the French Galaxy Ecosystem](25/06_gbcc_galaxy_fr)
 [2025](25/) | [ELIXIR All Hands Meeting](https://elixir-europe.org/events/elixir-all-hands-2025) | Thessalonika, Greece | [Contributing to the ELIXIR Training Life-Cycle from the GTN perspective](25/06_elixir_ahm_gtn)
 [2024](24/) | [GCC](https://galaxyproject.org/events/gcc2024/) | Brno, Czech | [ABRomics: A Galaxy-based One Health Antimicrobial Resistance Platform](24/06_gcc_abromics)
 [2024](24/) | [GCC](https://galaxyproject.org/events/gcc2024/) | Brno, Czech | [Exploring the Richness of the French Galaxy Ecosystem](24/06_gcc_galaxy_fr)
