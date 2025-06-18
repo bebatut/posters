@@ -1,20 +1,21 @@
 Exploring the Richness of the French Galaxy Ecosystem
 =====================================================
 
-### Bérénice Batut, Gildas Le Corguillé, Yvan Le Bras, Loraine Brillet-Guéguen, Fabien Mareuil, GT Galaxy, Anthony Bretaudeau
+### Bérénice Batut, GT Galaxy, Gildas Le Corguillé, Anthony Bretaudeau
 
-*Poster presented at [Galaxy Community Conference 2024](https://galaxyproject.org/events/gcc2024/)*
+*Poster presented at [JOBIM](https://jobim2025.labri.fr/)*
 
 ## Abstract
 
-The French Bioinformatics Community has embraced Galaxy since its inception, with a pivotal moment being the Galaxy Tour de France led by Nate Coroar, Anton Nekrutenko, and James Taylor in 2012. This adoption has led to the establishment of over 10 Galaxy servers across France, catering to diverse local needs and specialized thematic areas such as ecology, biodiversity, NGS, proteomics, and more.
+**Background**: The French bioinformatics community has actively embraced Galaxy(1) since its inception, with a pivotal moment being the Galaxy Tour de France in 2012, led by Nate Coroar, Anton Nekrutenko, and James Taylor. This adoption has led to the establishment of 10+ Galaxy servers across France, supporting diverse research areas such as ecology, biodiversity, HTS, and proteomics.
 
-Among these servers, UseGalaxy.fr stands out as the flagship national instance, launched in 2021 and hosted by the French Institute for Bioinformatics (IFB - ELIXIR-FR). With robust infrastructure boasting 8300 CPU cores, 52 TB of RAM, and GPU cards, UseGalaxy.fr offers a comprehensive suite of over 3,000 tools, including interactive options like Jupyter Notebook, AlphaFold, and Helixer. Notably, it has garnered over 6,000 users who have collectively executed over 3.6 million jobs. Moreover, UseGalaxy.fr hosts specialized subdomains catering to various community needs, such as ecology, metabarcoding, and COVID-19 research, with ongoing integration of new subdomains.
+**Results**: Among these, UseGalaxy.fr stands out as the national flagship instance, launched in 2021 and hosted by the French Institute for Bioinformatics (IFB). It provides robust infrastructure (8,300 CPU cores, 52 TB RAM, GPUs) and offers 3,000+ tools, including Jupyter Notebook, AlphaFold, and Helixer. With 9,000+ users and 5.0M+ jobs executed, it has become a central hub for Galaxy users. Additionally, specialized subdomains (e.g., microbiology, ecology, metabolomics, plants) are continuously expanding.
 
-The community's commitment to collaboration and consolidation is evident as several local servers have migrated to UseGalaxy.fr in recent years, with others expressing interest in doing the same. The French Galaxy community is deeply engaged in a multitude of projects at national, European, and global levels, including EOSC FAIR EASE, EuroScienceGateway, ATLASea and ABRomics.
+Collaboration within the French Galaxy community is growing, with several local servers migrating to UseGalaxy.fr and more considering integration. The community actively contributes to national and international projects, including EOSC FAIR EASE, EOSC EuroScienceGateway, ATLASea, and ABRomics.  
 
-To foster cohesion and synergy within the community, a Galaxy Working Group led by the French Bioinformatics Institute facilitates regular interactions. This group serves to connect Galaxy users across France, share knowledge, support UseGalaxy.fr, and combat misconceptions about Galaxy within the French scientific community.
-In this poster presentation, we will provide an overview of the dynamic French Galaxy ecosystem, highlighting its diverse servers, engaged researchers, ongoing projects, and collaborative efforts. Through this exploration, we aim to showcase the vibrancy and impact of Galaxy within the French bioinformatics landscape.
+To strengthen coordination, the Galaxy Working Group at the IFB fosters knowledge exchange, supports UseGalaxy.fr, and addresses misconceptions about Galaxy in France.
+
+**Conclusions**: The French Galaxy ecosystem is a dynamic, collaborative network driving innovation in bioinformatics. This poster will showcase its infrastructure, engaged researchers, and ongoing projects, highlighting its impact within the national and international scientific community.
 
 ## Poster
 
