@@ -6,6 +6,8 @@ This repository keeps my scientific posters
 
 Year | Event | Location | Title
 --- | --- | --- | ---
+[2025](25/) | [JOBIM](https://jobim2025.labri.fr/) | Bordeaux, France | [Building a Standardized Database for Honey Bee Microbiome: Addressing Metadata and Data Comparability gaps](25/07_jobim_bee_database)
+[2025](25/) | [JOBIM](https://jobim2025.labri.fr/) | Bordeaux, France | [Breaking Myths: The Reality of Galaxy's Capabilities and Impact](25/07_jobim_galaxy_misconceptions)
 [2025](25/) | [JOBIM](https://jobim2025.labri.fr/) | Bordeaux, France | [Exploring the Richness of the French Galaxy Ecosystem](25/07_jobim_galaxy_fr)
 [2025](25/) | [GBCC](https://gbcc2025.bioconductor.org/) | NY, USA | [Exploring the Richness of the French Galaxy Ecosystem](25/06_gbcc_galaxy_fr)
 [2025](25/) | [ELIXIR All Hands Meeting](https://elixir-europe.org/events/elixir-all-hands-2025) | Thessalonika, Greece | [Contributing to the ELIXIR Training Life-Cycle from the GTN perspective](25/06_elixir_ahm_gtn)
