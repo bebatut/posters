@@ -13,6 +13,13 @@ Building a Standardized Database for Honey Bee Microbiome: Addressing Metadata a
 
 **Conclusions**: This project aims to build a robust bee microbiome database using advanced data analysis hosted in a Mesocenter DC infrastructure. Ongoing collaborations with microbiology and biodiversity metadata groups and the microGalaxy community will address metadata and workflow gaps, improving cross-study comparisons and enhancing our understanding of environmental impacts on honey bee health.
 
+
+## Useful links
+
+- [BeeBiome](https://beebiome.org/)
+- [Galaxy Workflow for Metagenomic Taxonomy and Functional Analysis](https://usegalaxy.eu/u/berenice/w/metagenomicstaxonomyfunctionalanalysis)
+- [GitLab repository](https://git.mesocentre.uca.fr/galaxy.mesocentre.uca/bee-microbiome-db)
+
 ## Poster
 
 ![Poster](poster.png)
