@@ -1,5 +1,5 @@
 Breaking Myths: The Reality of Galaxy's Capabilities and Impact
-=====================================================
+===============================================================
 
 ### Gildas Le Corguillé, Anthony Bretaudeau, Björn Grüning, GT Galaxy, Bérénice Batut
 
