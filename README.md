@@ -6,6 +6,7 @@ This repository keeps my scientific posters
 
 Year | Event | Location | Title
 --- | --- | --- | ---
+[2026](26/) | [GCC](https://galaxyproject.org/events/gcc2026/) | [Navigating Galaxy’s Growth: How the CoDex Lowers Barriers to Access](26/06_gcc_codex)
 [2025](25/) | [JOBIM](https://jobim2025.labri.fr/) | Bordeaux, France | [Building a Standardized Database for Honey Bee Microbiome: Addressing Metadata and Data Comparability gaps](25/07_jobim_bee_database)
 [2025](25/) | [JOBIM](https://jobim2025.labri.fr/) | Bordeaux, France | [Breaking Myths: The Reality of Galaxy's Capabilities and Impact](25/07_jobim_galaxy_misconceptions)
 [2025](25/) | [JOBIM](https://jobim2025.labri.fr/) | Bordeaux, France | [Exploring the Richness of the French Galaxy Ecosystem](25/07_jobim_galaxy_fr)
