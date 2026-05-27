@@ -3,7 +3,7 @@ Microbiology Galaxy Lab (MGL): The first community-driven gateway for reproducib
 
 ### Engy Nasr, Nikos Pechlivanis, Nikolaos Strepis, microGalaxy Community, Paul Zierep, and Bérénice Batut
 
-*Poster presented at [ELIXIR All Hands Meeting 2026](https://elixir-events.eventscase.com/EN/ahm2026)*
+*Poster presented at [ELIXIR All Hands Meeting 2026](https://elixir-events.eventscase.com/EN/ahm2026) and [Galaxy Community Conference 2026](https://galaxyproject.org/events/gcc2026/)*
 
 ## Abstract
 
