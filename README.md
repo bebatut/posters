@@ -6,8 +6,8 @@ This repository keeps my scientific posters
 
 Year | Event | Location | Title
 --- | --- | --- | ---
-[2026](26/) | [Galaxy Community Conference](https://galaxyproject.org/events/gcc2026/) | [Navigating Galaxy’s Growth: How the CoDex Lowers Barriers to Access](26/06_gcc_codex)
-[2026](26/) | [Galaxy Community Conference](https://galaxyproject.org/events/gcc2026/) | Lyon, France | [Microbiology Galaxy Lab (MGL): The first community-driven gateway for reproducible and FAIR analysis of microbiological data analysis](26/06_elixir_ahm_mgl/)
+[2026](26/) | [Galaxy Community Conference](https://galaxyproject.org/events/gcc2026/) | Clermont-Ferrand, France | [Navigating Galaxy’s Growth: How the CoDex Lowers Barriers to Access](26/06_gcc_codex)
+[2026](26/) | [Galaxy Community Conference](https://galaxyproject.org/events/gcc2026/) | Clermont-Ferrand, France | [Microbiology Galaxy Lab (MGL): The first community-driven gateway for reproducible and FAIR analysis of microbiological data analysis](26/06_elixir_ahm_mgl/)
 [2026](26/) | [ELIXIR All Hands](https://elixir-events.eventscase.com/EN/ahm2026) | Lyon, France | [Microbiology Galaxy Lab (MGL): The first community-driven gateway for reproducible and FAIR analysis of microbiological data analysis](26/06_elixir_ahm_mgl/)
 [2025](25/) | [JOBIM](https://jobim2025.labri.fr/) | Bordeaux, France | [Building a Standardized Database for Honey Bee Microbiome: Addressing Metadata and Data Comparability gaps](25/07_jobim_bee_database)
 [2025](25/) | [JOBIM](https://jobim2025.labri.fr/) | Bordeaux, France | [Breaking Myths: The Reality of Galaxy's Capabilities and Impact](25/07_jobim_galaxy_misconceptions)
